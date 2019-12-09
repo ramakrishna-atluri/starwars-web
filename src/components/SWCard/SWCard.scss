@@ -1,0 +1,16 @@
+$answer-text-color: #ccac00;
+$question-text-color: #ffff;
+
+.wrapper{
+    padding: 1em 0em 0em 0em;
+    color:$question-text-color;
+    font-weight: bolder;
+    font-size: 2em;
+}
+.answer{
+    color: $answer-text-color;
+}
+
+ul{
+    list-style-type: none;
+}
